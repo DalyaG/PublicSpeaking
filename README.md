@@ -56,5 +56,5 @@ where I start with an introduction to neural networks,
 and end with a "meta" description of this project, how it came about,
 and how working on it helped my advance my career.
 
-![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
+![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
 
