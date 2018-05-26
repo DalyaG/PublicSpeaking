@@ -29,3 +29,5 @@ Tel Aviv Women in Data Science Conference 2018
 ([event](http://intuit.eventiko.co.il/),
 [video - my talk starts at 2:04](https://goo.gl/iW2pJE)).
 
+![Offline Solution to Online Problems Preview](../master/data/OfflineSolutionstoOnlineProblems.png)
+
