@@ -3,6 +3,22 @@ Slides and links to videos of some of my public talks.
  
 Enjoy, and spread the knowledge :)
 
+#### A little bit about me:
+
+A mathematician at heart, 
+an algorithmatician in practice. 
+After receiving my MSc. in math from TAU 
+I ventured into data science and algorithms domains, 
+glad to discover that the real world is at least as exciting as the abstract. 
+Currently algorithms researcher at Via - On Demand Transit, 
+applying both my theoretical and practical passions.
+
+Founder of 
+[Algorithms Israel](https://www.meetup.com/Algorithms-Israel/) 
+and co-organizer of 
+[PyData Tel Aviv](https://www.meetup.com/PyData-Tel-Aviv/)
+MeetUps.
+
 ## Offline Solution to Online Problems 
 
 We live in an online world. 
@@ -58,3 +74,24 @@ and how working on it helped my advance my career.
 
 ![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
 
+
+## "Everyone can Data!" - A Practical Data Science Intro
+
+Ever wondered what this "data science" talk is all about? 
+Well, wonder no more!
+
+In this intro talk, 
+we will overview some very basic concepts in data science, 
+and learn how we can all implement them in super cool projects of our own.
+ 
+Let's visit helpful online resources, 
+throw project ideas in the air, 
+come up with a framework for team collaboration, 
+and pave the path for inspiration and perspiration :)
+
+I gave this talk at the preparation event to 
+[HackExtend](http://www.hackextend.com/), 
+a super cool hackathon that welcomes everyone!
+
+
+![EveryoneCanData](../master/previews/EveryoneCanData.png)
