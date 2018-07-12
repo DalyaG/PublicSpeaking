@@ -95,3 +95,43 @@ a super cool hackathon that welcomes everyone!
 
 
 ![EveryoneCanData](../master/previews/EveryoneCanData.png)
+
+
+## Sequence Alignment for Ride Sharing
+
+As researchers and developers, we constantly face new problems, and challenge existing solutions to old problems.
+On beautiful circumstances, solved problems from one domain shed light on new problems from totally different domains.
+
+This happened to me while I was researching a Ride Sharing problem, and got inspiration from a DNA Sequence Alignment algorithm.
+
+The Ride Sharing problem we will discuss is a constrained optimization problem of finding efficient ways of grouping multiple riders on a single taxi.
+We will also overview the biological context that was the inspiration, and take a close look at the hybrid algorithm that provided a significantly more efficient solution.
+
+This is a light-weight-suitable-for-after-work-hours overview of the steps of the algorithm; it includes a selection of non-mandatory mathematical formulas, for people like me who enjoy the extra spice of supporting equations.
+
+I gave this talk at the Algorithms Israel MeetUp
+[Algorithms Israel MeetUp](https://www.meetup.com/Algorithms-Israel/events/251504953/).
+
+
+![SequenceAlignmentForRideSharing](../master/previews/SequenceAlignmentForRideSharing.jpg)
+
+
+## Help your colleagues help themselves - a Sphinx tutorial
+
+Have you ever found yourself developing a tool only to find it already exists somewhere else in the code?
+Have you ever wondered what does AlexsCoolFunction do?
+Did you ever put a funny comment in your code and was upset that noone will read it?
+
+Then maybe it’s time to have a better documentation system!
+
+In this tutorial, we will sail through the onboarding stage of [Sphinx](http://www.sphinx-doc.org/en/master/) - an automated documentation package, and learn how we can all collaborate better.
+
+This tutorial is backed by a [repository](https://github.com/DalyaG/Sphinx185) that holds an example project - you can browse the [output documentation](https://dalyag.github.io/Sphinx185/index.html) and download the [example template](https://github.com/DalyaG/Sphinx185/tree/master/documentation_template_for_your_next_project) so you can easily start documenting your next project!
+
+I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), you can watch the talk [here](https://www.youtube.com/watch?v=3OAAL78PES8).
+
+
+![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
+
+
+
