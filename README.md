@@ -90,7 +90,8 @@ come up with a framework for team collaboration,
 and pave the path for inspiration and perspiration :)
 
 I gave this talk at the preparation event to 
-[HackExtend](http://www.hackextend.com/), 
+[HackExtend](http://www.hackextend.com/)
+[(video - Hebrew)](https://www.youtube.com/watch?v=Nxn1q1W9Hk8&index=6&list=PLY-poECvi6h7VQWt5Nd5O42py_07UKifI), 
 a super cool hackathon that welcomes everyone!
 
 
@@ -132,6 +133,4 @@ I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/prese
 
 
 ![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
-
-
 
