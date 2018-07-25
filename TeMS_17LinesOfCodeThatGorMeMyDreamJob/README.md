@@ -20,6 +20,6 @@ I also gave a longer (Hebrew) version of this talk at the Women in Tech Forum
 [video](https://youtu.be/W9U2Qb1F5h8)), 
 where I start with an introduction to neural networks,
 and end with a "meta" description of this project, how it came about,
-and how working on it helped my advance my career.
+and how working on it helped me advance my career.
 
 ![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
