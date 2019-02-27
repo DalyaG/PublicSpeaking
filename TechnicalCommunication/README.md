@@ -27,7 +27,6 @@ When you have these questions answered, plan ahead, be goal oriented,
 and keep everything in a scope that fits the occasion.
 Having said that, I think this is enough for a Github README, so I'm gonna stop here.
 
-|
 
 P.S.
 
