@@ -5,19 +5,21 @@ Enjoy, and spread the knowledge :)
 
 #### A little bit about me:
 
-A mathematician at heart, 
-an algorithmatician in practice. 
-After receiving my MSc. in math from TAU 
-I ventured into data science and algorithms domains, 
-glad to discover that the real world is at least as exciting as the abstract. 
-Currently algorithms researcher at Via - On Demand Transit, 
-applying both my theoretical and practical passions.
+Mathematician, Algorithmatician, Speaker, Social contributor. 
+My greatest passion is to apply my technical skills for driving social growth.
+
+In my spare time, I enjoy a variety of extra-curricular activities, 
+which include public speaking, organizing professional events, and promoting women in STEM.
 
 Founder of 
 [Algorithms Israel](https://www.meetup.com/Algorithms-Israel/) 
 and co-organizer of 
 [PyData Tel Aviv](https://www.meetup.com/PyData-Tel-Aviv/)
 MeetUps.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/dalya-gar/), 
+[Twitter](https://twitter.com/DalyaGar)
+and [Medium](https://medium.com/@dalyag).
 
 ## Offline Solution to Online Problems 
 
@@ -44,7 +46,7 @@ and also a shorter high-level version at the
 [Tel Aviv Women in Data Science Conference 2018](http://intuit.eventiko.co.il/),
 [(video)](https://www.youtube.com/watch?v=sVwSvbJARxI).
 
-![Offline Solution to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
+![Offline Solutions to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
 
 
 ## TeMS - 17 Lines of Code That Got Me My Dream Job
