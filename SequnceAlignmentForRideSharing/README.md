@@ -16,9 +16,10 @@ I gave this talk at the [Algorithms Israel MeetUp](https://www.meetup.com/Algori
 
 ## The Developers Version
 
-In this verion I hope to entertain your curiosity, spark your creativity, and encourage you to venture into unexpected solution spaces.
+In this version I hope to entertain your curiosity, spark your creativity, and encourage you to venture into unexpected solution spaces.
 
-I gave this talk at [Reversim Summit 2018](https://summit2018.reversim.com/session/5b0b0ba592ac8b00147796f5)(Video coming soon!)
+I gave this talk at [Reversim Summit 2018](https://summit2018.reversim.com/session/5b0b0ba592ac8b00147796f5)
+[(video)](https://www.youtube.com/watch?v=rZSdHKyp55M)
 
 
 ![SequenceAlignmentForRideSharing](../../master/previews/SequenceAlignmentForRideSharing.jpg)

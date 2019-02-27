@@ -10,7 +10,7 @@ In this tutorial, we will sail through the onboarding stage of [Sphinx](http://w
 
 This tutorial is backed by a [repository](https://github.com/DalyaG/Sphinx185) that holds an example project - you can browse the [output documentation](https://dalyag.github.io/Sphinx185/index.html) and download the [example template](https://github.com/DalyaG/Sphinx185/tree/master/documentation_template_for_your_next_project) so you can easily start documenting your next project!
 
-I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), you can watch the talk [here](https://www.youtube.com/watch?v=3OAAL78PES8).
-
+I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), 
+[(video)](https://www.youtube.com/watch?v=3OAAL78PES8).
 
 ![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)

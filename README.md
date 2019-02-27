@@ -24,7 +24,7 @@ MeetUps.
 We live in an online world. 
 As consumers we expect our demands to be answered on the spot, 
 and as creators we design our products to answer consumers' immediate requests. 
-In Via (https://ridewithvia.com/), for example, the minute you ask for a ride, 
+In [Via](https://ridewithvia.com/), for example, the minute you ask for a ride, 
 you will be assigned a van - a live imitation of a greedy algorithm. 
 
 But what if the algorithm had the input that in a minute from now 
@@ -38,12 +38,11 @@ where the goal is to imagine we knew all requests in advance,
 and make the best assignment to vans based on this "omniscience".
 
 I gave a technical version of this talk at a PyDataTLV MeetUp
-([event](https://www.meetup.com/PyData-Tel-Aviv/events/245676534/),
-[video](https://www.youtube.com/watch?v=c1FMe4yK7zY)), 
+[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/245676534/),
+[(video)](https://www.youtube.com/watch?v=c1FMe4yK7zY), 
 and also a shorter high-level version at the 
-Tel Aviv Women in Data Science Conference 2018
-([event](http://intuit.eventiko.co.il/),
-[video - my talk starts at 2:04](https://goo.gl/iW2pJE)).
+[Tel Aviv Women in Data Science Conference 2018](http://intuit.eventiko.co.il/),
+[(video)](https://www.youtube.com/watch?v=sVwSvbJARxI).
 
 ![Offline Solution to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
 
@@ -61,13 +60,13 @@ This talk is about a a neural network I constructed,
 that reads a textual math problem 
 and outputs the underlying equation.
  
-I gave a short version of this talk at a PyDataTLV MeetUp
-([event](https://www.meetup.com/PyData-Tel-Aviv/events/239823945/),
-[video - my talk starts at 19:40](https://www.youtube.com/watch?v=8j8vfW94o6Y)).
+I gave a short version of this talk at a 
+[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/239823945/),
+[(video - my talk starts at 19:40)](https://www.youtube.com/watch?v=8j8vfW94o6Y).
 
-I also gave a longer (Hebrew) version of this talk at the Women in Tech Forum
-([event](https://www.meetup.com/at-wix/events/246859972/),
-[video](https://youtu.be/W9U2Qb1F5h8)), 
+I also gave a longer version of this talk at
+[Wix Tech Talks Meetup](https://www.meetup.com/at-wix/events/246859972/),
+[(video - Hebrew)](https://youtu.be/W9U2Qb1F5h8), 
 where I start with an introduction to neural networks,
 and end with a "meta" description of this project, how it came about,
 and how working on it helped my advance my career.
@@ -108,10 +107,9 @@ This happened to me while I was researching a Ride Sharing problem, and got insp
 The Ride Sharing problem we will discuss is a constrained optimization problem of finding efficient ways of grouping multiple riders on a single taxi.
 We will also overview the biological context that was the inspiration, and take a close look at the hybrid algorithm that provided a significantly more efficient solution.
 
-This is a light-weight-suitable-for-after-work-hours overview of the steps of the algorithm; it includes a selection of non-mandatory mathematical formulas, for people like me who enjoy the extra spice of supporting equations.
-
-I gave this talk at the Algorithms Israel MeetUp
-[Algorithms Israel MeetUp](https://www.meetup.com/Algorithms-Israel/events/251504953/),[(video - Hebrew)](https://www.youtube.com/watch?v=5so2Gbzd3xI).
+I gave a math-geek version of this talk at the [Algorithms Israel MeetUp](https://www.meetup.com/Algorithms-Israel/events/251504953/) [(video - Hebrew)](https://www.youtube.com/watch?v=5so2Gbzd3xI),
+and a developers version at [Reversim Summit 2018](https://summit2018.reversim.com/session/5b0b0ba592ac8b00147796f5)
+[(video)](https://www.youtube.com/watch?v=rZSdHKyp55M).
 
 
 ![SequenceAlignmentForRideSharing](../master/previews/SequenceAlignmentForRideSharing.jpg)
@@ -129,8 +127,44 @@ In this tutorial, we will sail through the onboarding stage of [Sphinx](http://w
 
 This tutorial is backed by a [repository](https://github.com/DalyaG/Sphinx185) that holds an example project - you can browse the [output documentation](https://dalyag.github.io/Sphinx185/index.html) and download the [example template](https://github.com/DalyaG/Sphinx185/tree/master/documentation_template_for_your_next_project) so you can easily start documenting your next project!
 
-I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), you can watch the talk [here](https://www.youtube.com/watch?v=3OAAL78PES8).
+I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), 
+[(video)](https://www.youtube.com/watch?v=3OAAL78PES8).
 
 
 ![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
 
+
+## Technical Communication
+
+We all have ideas we want to share with the world, be it our colleagues in a brainstorming session,
+the readers of our technical blog, and sometimes even someone we just met at a conference lunch table.
+
+The skills we use in these occasions, happen to be all similar skills,
+and improving our technical communications in one setting can help us improve in all other settings as well.
+Furthermore, when we communicate our technical ideas, be it our problems or our solutions,
+we reflect on our work and become more professional in our everyday job.
+
+Great! I want in! But how?
+
+Here's the tl;dr - you need to ask yourself 4 questions:
+
+1. **Why am I here?** (make it personal, 
+   and share your personal motive with the audience)
+
+2. **Why are YOU here?** (find out the technical background of your audience, 
+   and take the setting into account)
+
+3. **Why are WE here?** (define your focus/goal, 
+   and have clear takeaways you expect the audience to learn/understand)
+   
+4. **What structure best serves the answers to the questions above?**
+
+When you have these questions answered, plan ahead, be goal oriented,
+and keep everything in a scope that fits the occasion.
+Having said that, I think this is enough for a Github README, so I'm gonna stop here.
+
+P.S. 
+
+I gave this talk at [Baot Clean Code MeetUp #4](http://extend-tech.com/baot).
+
+![TechnicalCommunication](../master/previews/TechnicalCommunication.jpg)
