@@ -95,6 +95,9 @@ I gave this talk at the preparation event to
 [(video - Hebrew)](https://www.youtube.com/watch?v=Nxn1q1W9Hk8&index=6&list=PLY-poECvi6h7VQWt5Nd5O42py_07UKifI), 
 a super cool hackathon that welcomes everyone!
 
+I also gave this talk in the wonderful [Oredev](https://oredev.org/) 
+conference [(Video - English)](https://vimeo.com/371736687).
+
 
 ![EveryoneCanData](../master/previews/EveryoneCanData.png)
 
@@ -167,6 +170,10 @@ Having said that, I think this is enough for a Github README, so I'm gonna stop 
 
 P.S. 
 
-I gave this talk at [Baot Clean Code MeetUp #4](http://extend-tech.com/baot).
+I gave this talk at [Baot](http://extend-tech.com/baot)'s
+ [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
+
+I also wrote a [blog post](https://codeburst.io/technical-communications-c457b5c7da) 
+summarizing the essentials of composing a winning tech talk/blog.
 
 ![TechnicalCommunication](../master/previews/TechnicalCommunication.jpg)

@@ -30,8 +30,8 @@ Having said that, I think this is enough for a Github README, so I'm gonna stop 
 
 P.S.
 
-I gave this talk at [Baot's Clean Code MeetUp #4](http://extend-tech.com/baot), 
-and at [Baot's Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
+I gave this talk at [Baot](http://extend-tech.com/baot)'s
+ [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
 
 I also wrote a [blog post](https://codeburst.io/technical-communications-c457b5c7da) 
 summarizing the essentials of composing a winning tech talk/blog.
