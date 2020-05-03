@@ -22,9 +22,18 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/dalya-gar/),
 and [Medium](https://medium.com/@dalyag).
 
 
-Table of Contents:
+***
+
+#### In this repository:
 
 * [Offline Solution to Online Problems](#OfflineSolutions)
+* [TeMS - 17 Lines of Code That Got Me My Dream Job](#Tems)
+* ["Everyone can Data!" - A Practical Data Science Intro](#YouCanData)
+* [Sequence Alignment for Ride Sharing](#SequenceAlignment)
+* [Help your colleagues help themselves - a Sphinx tutorial](#Sphinx)
+* [Technical Communication](#TechComm)
+* [Understanding Depth and Disparity](#Disparity)
+
 
 ***
 
@@ -61,7 +70,7 @@ and also a shorter high-level version at the
 
 
 
-## [TeMS - 17 Lines of Code That Got Me My Dream Job](../master/TeMS_17LinesOfCodeThatGorMeMyDreamJob/TeMS_17LinesOfCodeThatGotMeMyDreamJob.pdf)
+## <a name="Tems"/> [TeMS - 17 Lines of Code That Got Me My Dream Job](../master/TeMS_17LinesOfCodeThatGorMeMyDreamJob/TeMS_17LinesOfCodeThatGotMeMyDreamJob.pdf)
 
 Solving a textual math problem is a complicated task, 
 requiring both mathematical understanding and language proficiency. 
@@ -92,7 +101,7 @@ and how working on it helped my advance my career.
 
 
 
-## ["Everyone can Data!" - A Practical Data Science Intro](../master/EveryoneCanData/EveryoneCanData.pdf)
+## <a name="YouCanData"/> ["Everyone can Data!" - A Practical Data Science Intro](../master/EveryoneCanData/EveryoneCanData.pdf)
 
 Ever wondered what this "data science" talk is all about? 
 Well, wonder no more!
@@ -122,7 +131,7 @@ conference [(Video - English)](https://vimeo.com/371736687).
 
 
 
-## [Sequence Alignment for Ride Sharing](../master/SequnceAlignmentForRideSharing/DevelopersVersion_SequenceAlignmentForRideSharing.pdf)
+## <a name="SequenceAlignment"/> [Sequence Alignment for Ride Sharing](../master/SequnceAlignmentForRideSharing/DevelopersVersion_SequenceAlignmentForRideSharing.pdf)
 
 As researchers and developers, we constantly face new problems, and challenge existing solutions to old problems.
 On beautiful circumstances, solved problems from one domain shed light on new problems from totally different domains.
@@ -143,7 +152,7 @@ and a developers version at [Reversim Summit 2018](https://summit2018.reversim.c
 ***
 
 
-## [Help your colleagues help themselves - a Sphinx tutorial](../master/HelpYourColleaguesHelpThemselves_ASphinxTutorial/HelpYourColleaguesHelpThemselves_aSphinxTutorial.pdf)
+## <a name="Sphinx"/> [Help your colleagues help themselves - a Sphinx tutorial](../master/HelpYourColleaguesHelpThemselves_ASphinxTutorial/HelpYourColleaguesHelpThemselves_aSphinxTutorial.pdf)
 
 Have you ever found yourself developing a tool only to find it already exists somewhere else in the code?
 Have you ever wondered what does AlexsCoolFunction do?
@@ -165,7 +174,7 @@ I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/prese
 ***
 
 
-## [Technical Communication](../master/TechnicalCommunication/TechnicalCommunication.pdf)
+## <a name="TechComm"/> [Technical Communication](../master/TechnicalCommunication/TechnicalCommunication.pdf)
 
 We all have ideas we want to share with the world, be it our colleagues in a brainstorming session,
 the readers of our technical blog, and sometimes even someone we just met at a conference lunch table.
@@ -210,8 +219,8 @@ summarizing the essentials of composing a winning tech talk/blog.
 ***
 
 
-## [Understanding Depth and Disparity](../master/UnderstandingDepthAndDisparity/UnderstandingDepthAndDisparity.pdf)
+## <a name="Disparity"/> [Understanding Depth and Disparity](../master/UnderstandingDepthAndDisparity/UnderstandingDepthAndDisparity.pdf)
 
 A short talk about how elementary level geometry is being used in modern computer vision algorithms.
 
-![UnderstandingDepthAndDisparity_Preview](../master/previews/UnderstandingDepthAndDisparity_Preview.png)
+![UnderstandingDepthAndDisparity_Preview](../master/previews/UnderstandingDepthAndDisparity_Preview.jpg)
