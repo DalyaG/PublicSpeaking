@@ -33,7 +33,9 @@ P.S.
 I gave this talk at [Baot](http://extend-tech.com/baot)'s
  [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
 
-I also wrote a [blog post](https://codeburst.io/technical-communications-c457b5c7da) 
+I also wrote a blog post 
+([English](https://codeburst.io/technical-communications-c457b5c7da), 
+[Hebrew](http://bit.ly/TechCommBlogHebrew)) 
 summarizing the essentials of composing a winning tech talk/blog.
 
 ![TechnicalCommunication](../../master/previews/TechnicalCommunication.jpg)

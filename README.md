@@ -21,7 +21,15 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/dalya-gar/),
 [Twitter](https://twitter.com/DalyaGar)
 and [Medium](https://medium.com/@dalyag).
 
-## Offline Solution to Online Problems 
+
+Table of Contents:
+
+* [Offline Solution to Online Problems](#OfflineSolutions)
+
+***
+
+
+## <a name="OfflineSolutions"/> [Offline Solution to Online Problems](../master/OfflineSolutionstoOnlineProblems/OfflineSolutionstoOnlineProblems.pdf)
 
 We live in an online world. 
 As consumers we expect our demands to be answered on the spot, 
@@ -49,7 +57,11 @@ and also a shorter high-level version at the
 ![Offline Solutions to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
 
 
-## TeMS - 17 Lines of Code That Got Me My Dream Job
+***
+
+
+
+## [TeMS - 17 Lines of Code That Got Me My Dream Job](../master/TeMS_17LinesOfCodeThatGorMeMyDreamJob/TeMS_17LinesOfCodeThatGotMeMyDreamJob.pdf)
 
 Solving a textual math problem is a complicated task, 
 requiring both mathematical understanding and language proficiency. 
@@ -76,7 +88,11 @@ and how working on it helped my advance my career.
 ![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
 
 
-## "Everyone can Data!" - A Practical Data Science Intro
+***
+
+
+
+## ["Everyone can Data!" - A Practical Data Science Intro](../master/EveryoneCanData/EveryoneCanData.pdf)
 
 Ever wondered what this "data science" talk is all about? 
 Well, wonder no more!
@@ -102,7 +118,11 @@ conference [(Video - English)](https://vimeo.com/371736687).
 ![EveryoneCanData](../master/previews/EveryoneCanData.png)
 
 
-## Sequence Alignment for Ride Sharing
+***
+
+
+
+## [Sequence Alignment for Ride Sharing](../master/SequnceAlignmentForRideSharing/DevelopersVersion_SequenceAlignmentForRideSharing.pdf)
 
 As researchers and developers, we constantly face new problems, and challenge existing solutions to old problems.
 On beautiful circumstances, solved problems from one domain shed light on new problems from totally different domains.
@@ -120,7 +140,10 @@ and a developers version at [Reversim Summit 2018](https://summit2018.reversim.c
 ![SequenceAlignmentForRideSharing](../master/previews/SequenceAlignmentForRideSharing.jpg)
 
 
-## Help your colleagues help themselves - a Sphinx tutorial
+***
+
+
+## [Help your colleagues help themselves - a Sphinx tutorial](../master/HelpYourColleaguesHelpThemselves_ASphinxTutorial/HelpYourColleaguesHelpThemselves_aSphinxTutorial.pdf)
 
 Have you ever found yourself developing a tool only to find it already exists somewhere else in the code?
 Have you ever wondered what does AlexsCoolFunction do?
@@ -139,7 +162,10 @@ I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/prese
 ![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
 
 
-## Technical Communication
+***
+
+
+## [Technical Communication](../master/TechnicalCommunication/TechnicalCommunication.pdf)
 
 We all have ideas we want to share with the world, be it our colleagues in a brainstorming session,
 the readers of our technical blog, and sometimes even someone we just met at a conference lunch table.
@@ -173,7 +199,19 @@ P.S.
 I gave this talk at [Baot](http://extend-tech.com/baot)'s
  [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
 
-I also wrote a [blog post](https://codeburst.io/technical-communications-c457b5c7da) 
+I also wrote a blog post 
+([English](https://codeburst.io/technical-communications-c457b5c7da), 
+[Hebrew](http://bit.ly/TechCommBlogHebrew)) 
 summarizing the essentials of composing a winning tech talk/blog.
 
 ![TechnicalCommunication](../master/previews/TechnicalCommunication.jpg)
+
+
+***
+
+
+## [Understanding Depth and Disparity](../master/UnderstandingDepthAndDisparity/UnderstandingDepthAndDisparity.pdf)
+
+A short talk about how elementary level geometry is being used in modern computer vision algorithms.
+
+![UnderstandingDepthAndDisparity_Preview](../master/previews/UnderstandingDepthAndDisparity_Preview.png)
