@@ -26,80 +26,16 @@ and [Medium](https://medium.com/@dalyag).
 
 #### In this repository:
 
-* [Offline Solution to Online Problems](#OfflineSolutions)
-* [TeMS - 17 Lines of Code That Got Me My Dream Job](#Tems)
 * ["Everyone can Data!" - A Practical Data Science Intro](#YouCanData)
+* [TeMS - 17 Lines of Code That Got Me My Dream Job](#Tems)
 * [Sequence Alignment for Ride Sharing](#SequenceAlignment)
-* [Help your colleagues help themselves - a Sphinx tutorial](#Sphinx)
 * [Technical Communication](#TechComm)
 * [Understanding Depth and Disparity](#Disparity)
+* [Offline Solution to Online Problems](#OfflineSolutions)
+* [Help your colleagues help themselves - a Sphinx tutorial](#Sphinx)
 
 
 ***
-
-
-## <a name="OfflineSolutions"/> [Offline Solution to Online Problems](../master/OfflineSolutionstoOnlineProblems/OfflineSolutionstoOnlineProblems.pdf)
-
-We live in an online world. 
-As consumers we expect our demands to be answered on the spot, 
-and as creators we design our products to answer consumers' immediate requests. 
-In [Via](https://ridewithvia.com/), for example, the minute you ask for a ride, 
-you will be assigned a van - a live imitation of a greedy algorithm. 
-
-But what if the algorithm had the input that in a minute from now 
-I will also ask for a ride with similar origin and destination? 
-then it will be able to optimize the assignment - 
-it will keep you waiting for just a minute, so that we can ride together, 
-even more cheaply and economically than ever!
-
-This talk revolves a project I lead in Via, which addresses this issue, 
-where the goal is to imagine we knew all requests in advance, 
-and make the best assignment to vans based on this "omniscience".
-
-I gave a technical version of this talk at a PyDataTLV MeetUp
-[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/245676534/),
-[(video)](https://www.youtube.com/watch?v=c1FMe4yK7zY), 
-and also a shorter high-level version at the 
-[Tel Aviv Women in Data Science Conference 2018](http://intuit.eventiko.co.il/),
-[(video)](https://www.youtube.com/watch?v=sVwSvbJARxI).
-
-![Offline Solutions to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
-
-
-***
-
-
-
-## <a name="Tems"/> [TeMS - 17 Lines of Code That Got Me My Dream Job](../master/TeMS_17LinesOfCodeThatGorMeMyDreamJob/TeMS_17LinesOfCodeThatGotMeMyDreamJob.pdf)
-
-Solving a textual math problem is a complicated task, 
-requiring both mathematical understanding and language proficiency. 
-
-Well, what if we could train a neural network to do both? 
-
-And what if we could use existing tools to do it in just a few lines of code?
-
-This talk is about a a neural network I constructed, 
-that reads a textual math problem 
-and outputs the underlying equation.
- 
-I gave a short version of this talk at a 
-[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/239823945/),
-[(video - my talk starts at 19:40)](https://www.youtube.com/watch?v=8j8vfW94o6Y).
-
-I also gave a longer version of this talk at
-[Wix Tech Talks Meetup](https://www.meetup.com/at-wix/events/246859972/),
-[(video - Hebrew)](https://youtu.be/W9U2Qb1F5h8), 
-where I start with an introduction to neural networks,
-and end with a "meta" description of this project, how it came about,
-and how working on it helped my advance my career.
-
-![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
-
-
-***
-
-
 
 ## <a name="YouCanData"/> ["Everyone can Data!" - A Practical Data Science Intro](../master/EveryoneCanData/EveryoneCanData.pdf)
 
@@ -130,6 +66,38 @@ conference [(Video - English)](https://vimeo.com/371736687).
 ***
 
 
+## <a name="Tems"/> [TeMS - 17 Lines of Code That Got Me My Dream Job](../master/TeMS_17LinesOfCodeThatGorMeMyDreamJob/TeMS_17LinesOfCodeThatGotMeMyDreamJob.pdf)
+
+Solving a textual math problem is a complicated task, 
+requiring both mathematical understanding and language proficiency. 
+
+Well, what if we could train a neural network to do both? 
+
+And what if we could use existing tools to do it in just a few lines of code?
+
+This talk is about a a neural network I constructed, 
+that reads a textual math problem 
+and outputs the underlying equation.
+ 
+I gave a short version of this talk at a 
+[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/239823945/),
+[(video - my talk starts at 19:40)](https://www.youtube.com/watch?v=8j8vfW94o6Y).
+
+I also gave a longer version of this talk at
+[Wix Tech Talks Meetup](https://www.meetup.com/at-wix/events/246859972/),
+[(video - Hebrew)](https://youtu.be/W9U2Qb1F5h8), 
+where I start with an introduction to neural networks,
+and end with a "meta" description of this project, how it came about,
+and how working on it helped my advance my career.
+
+You can also read about the technical details of the project in this 
+[blog post](https://towardsdatascience.com/dear-math-i-am-not-your-therapist-solve-your-own-problems-da835102dacb).
+
+![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)
+
+
+***
+
 
 ## <a name="SequenceAlignment"/> [Sequence Alignment for Ride Sharing](../master/SequnceAlignmentForRideSharing/DevelopersVersion_SequenceAlignmentForRideSharing.pdf)
 
@@ -147,28 +115,6 @@ and a developers version at [Reversim Summit 2018](https://summit2018.reversim.c
 
 
 ![SequenceAlignmentForRideSharing](../master/previews/SequenceAlignmentForRideSharing.jpg)
-
-
-***
-
-
-## <a name="Sphinx"/> [Help your colleagues help themselves - a Sphinx tutorial](../master/HelpYourColleaguesHelpThemselves_ASphinxTutorial/HelpYourColleaguesHelpThemselves_aSphinxTutorial.pdf)
-
-Have you ever found yourself developing a tool only to find it already exists somewhere else in the code?
-Have you ever wondered what does AlexsCoolFunction do?
-Did you ever put a funny comment in your code and was upset that noone will read it?
-
-Then maybe it’s time to have a better documentation system!
-
-In this tutorial, we will sail through the onboarding stage of [Sphinx](http://www.sphinx-doc.org/en/master/) - an automated documentation package, and learn how we can all collaborate better.
-
-This tutorial is backed by a [repository](https://github.com/DalyaG/Sphinx185) that holds an example project - you can browse the [output documentation](https://dalyag.github.io/Sphinx185/index.html) and download the [example template](https://github.com/DalyaG/Sphinx185/tree/master/documentation_template_for_your_next_project) so you can easily start documenting your next project!
-
-I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), 
-[(video)](https://www.youtube.com/watch?v=3OAAL78PES8).
-
-
-![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
 
 
 ***
@@ -206,7 +152,10 @@ Having said that, I think this is enough for a Github README, so I'm gonna stop 
 P.S. 
 
 I gave this talk at [Baot](http://extend-tech.com/baot)'s
- [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
+ [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844)
+ and also recorded this talk as part of the 
+ [Streaming with Baot](https://www.youtube.com/watch?v=tKj8dA7Gj38&list=PLpII905PU6QoHd38kd8P4WOyBIcqOZENx)
+ initiative [(Video - Hebrew)](https://youtu.be/exYdTC5XWSs).
 
 I also wrote a blog post 
 ([English](https://codeburst.io/technical-communications-c457b5c7da), 
@@ -219,8 +168,77 @@ summarizing the essentials of composing a winning tech talk/blog.
 ***
 
 
+
 ## <a name="Disparity"/> [Understanding Depth and Disparity](../master/UnderstandingDepthAndDisparity/UnderstandingDepthAndDisparity.pdf)
 
-A short talk about how elementary level geometry is being used in modern computer vision algorithms.
+In this session we will learn how elementary Geometry is being used in modern Computer vision algorithms!
+
+Calculating the distance between a set of cameras and an object in front of them 
+is an important task for many applications, 
+such as (semi-)autonomous driving, robotic house cleaning, and, 
+you know, also as a seeing human who just wants to avoid bumping into things...
+
+This task is called calculating depth in stereo vision, and the goal of this talk is to explain how this is done.
+
+I recorded this talk as part of the [Baot](https://extend-tech.com/baot) 
+[TechBites](https://www.youtube.com/watch?v=HaSnT0Ki8rk&list=PLpII905PU6QrEzPicCTUJU99KruTEpHXy) 
+initiative [(Video-English)](https://youtu.be/0a7gnRmMXjw).
 
 ![UnderstandingDepthAndDisparity_Preview](../master/previews/UnderstandingDepthAndDisparity_Preview.jpg)
+
+
+***
+
+
+## <a name="OfflineSolutions"/> [Offline Solution to Online Problems](../master/OfflineSolutionstoOnlineProblems/OfflineSolutionstoOnlineProblems.pdf)
+
+We live in an online world. 
+As consumers we expect our demands to be answered on the spot, 
+and as creators we design our products to answer consumers' immediate requests. 
+In [Via](https://ridewithvia.com/), for example, the minute you ask for a ride, 
+you will be assigned a van - a live imitation of a greedy algorithm. 
+
+But what if the algorithm had the input that in a minute from now 
+I will also ask for a ride with similar origin and destination? 
+then it will be able to optimize the assignment - 
+it will keep you waiting for just a minute, so that we can ride together, 
+even more cheaply and economically than ever!
+
+This talk revolves a project I lead in Via, which addresses this issue, 
+where the goal is to imagine we knew all requests in advance, 
+and make the best assignment to vans based on this "omniscience".
+
+I gave a technical version of this talk at a PyDataTLV MeetUp
+[PyDataTLV MeetUp](https://www.meetup.com/PyData-Tel-Aviv/events/245676534/),
+[(video)](https://www.youtube.com/watch?v=c1FMe4yK7zY), 
+and also a shorter high-level version at the 
+[Tel Aviv Women in Data Science Conference 2018](http://intuit.eventiko.co.il/),
+[(video)](https://www.youtube.com/watch?v=sVwSvbJARxI).
+
+![Offline Solutions to Online Problems Preview](../master/previews/OfflineSolutionstoOnlineProblems.png)
+
+
+***
+
+
+## <a name="Sphinx"/> [Help your colleagues help themselves - a Sphinx tutorial](../master/HelpYourColleaguesHelpThemselves_ASphinxTutorial/HelpYourColleaguesHelpThemselves_aSphinxTutorial.pdf)
+
+Have you ever found yourself developing a tool only to find it already exists somewhere else in the code?
+Have you ever wondered what does AlexsCoolFunction do?
+Did you ever put a funny comment in your code and was upset that noone will read it?
+
+Then maybe it’s time to have a better documentation system!
+
+In this tutorial, we will sail through the onboarding stage of [Sphinx](http://www.sphinx-doc.org/en/master/) - an automated documentation package, and learn how we can all collaborate better.
+
+This tutorial is backed by a [repository](https://github.com/DalyaG/Sphinx185) that holds an example project - you can browse the [output documentation](https://dalyag.github.io/Sphinx185/index.html) and download the [example template](https://github.com/DalyaG/Sphinx185/tree/master/documentation_template_for_your_next_project) so you can easily start documenting your next project!
+
+I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/presentation/28/), 
+[(video)](https://www.youtube.com/watch?v=3OAAL78PES8) and also wrote a short 
+[blog post](https://medium.com/free-code-camp/the-riddle-of-sphinx-how-to-document-your-code-easily-bf09a9a1804c).
+
+
+![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
+
+
+***

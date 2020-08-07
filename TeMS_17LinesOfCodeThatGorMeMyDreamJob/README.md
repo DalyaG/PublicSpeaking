@@ -22,4 +22,7 @@ where I start with an introduction to neural networks,
 and end with a "meta" description of this project, how it came about,
 and how working on it helped me advance my career.
 
+You can also read about the technical details of the project in this 
+[blog post](https://towardsdatascience.com/dear-math-i-am-not-your-therapist-solve-your-own-problems-da835102dacb).
+
 ![TeMS_17LinesOfCodeThatGotMeMyDreamJob Preview](../../master/previews/TeMS_17LinesOfCodeThatGotMeMyDreamJob.png)

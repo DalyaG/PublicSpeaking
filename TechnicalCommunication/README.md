@@ -31,7 +31,10 @@ Having said that, I think this is enough for a Github README, so I'm gonna stop 
 P.S.
 
 I gave this talk at [Baot](http://extend-tech.com/baot)'s
- [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844).
+ [Tech Blogging Workshop](https://www.facebook.com/baot.tech/posts/822826681532844)
+ and also recorded this talk as part of the 
+ [Streaming with Baot](https://www.youtube.com/watch?v=tKj8dA7Gj38&list=PLpII905PU6QoHd38kd8P4WOyBIcqOZENx)
+ initiative [(Video - Hebrew)](https://youtu.be/exYdTC5XWSs).
 
 I also wrote a blog post 
 ([English](https://codeburst.io/technical-communications-c457b5c7da), 
