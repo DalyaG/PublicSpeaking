@@ -33,6 +33,7 @@ and [Medium](https://medium.com/@dalyag).
 * [Understanding Depth and Disparity](#Disparity)
 * [Offline Solution to Online Problems](#OfflineSolutions)
 * [Help your colleagues help themselves - a Sphinx tutorial](#Sphinx)
+* [How to Find a Great Job](#GreatJob)
 
 
 ***
@@ -240,5 +241,22 @@ I gave this talk at [PyCon Israel 2018](https://il.pycon.org/2018/schedule/prese
 
 ![HelpYourColleaguesHelpThemselves_ASphinxTutorial](../master/previews/HelpYourColleaguesHelpThemselves_ASphinxTutorial.jpg)
 
+
+***
+
+## <a name="GreatJob"/> [How to Find a Great Job](../master/HowToFindAGreatJob/HowToFindAGreatJob.pdf)
+
+Job hunting can be tough. Most of the time *it is* tough.
+
+My method to make it a little a bit easier, is by scraping the internet through and through, 
+constructing a huge data base of relevant companies, and making personal connection to assure my CV go in the right place.
+
+By working in this systematic and high-scale method, I am able to increase my chances of finding a *great* job,
+and also make the process less painful as I am maintaining a constant stream of opportunities.
+
+I wrote a [blog post](https://bit.ly/GreatJobBlog) describing this method, and also gave a talk about it
+at [Baot](http://extend-tech.com/baot)'s job search program.
+
+![How to Find a Great Job](../master/previews/HowToFindAGreatJob.jpg)
 
 ***
